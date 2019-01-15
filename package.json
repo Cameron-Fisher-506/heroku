@@ -7,14 +7,14 @@
     "test": "jest --watchAll --verbose",
     "start": "node index.js"
   },
-  "engines":{
-    "node":"10.14.2"
+  "engines": {
+    "node": "10.14.2"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcryptjs": "^2.4.3",
     "config": "^1.29.4",
     "express": "^4.16.2",
     "express-async-errors": "^2.1.0",
